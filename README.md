@@ -3,9 +3,9 @@
 ###
 
 <div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/oy44kgfehl954oiaj5qfmheez">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=oy44kgfehl954oiaj5qfmheez&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+<a href="https://open.spotify.com/user/oy44kgfehl954oiaj5qfmheez">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=oy44kgfehl954oiaj5qfmheez&amp;theme=catppuccin&amp;count=3&amp;width=260&amp;profile=off" alt="Spotify recently played" width="260" />
+</a>
 </div>
 
 ###
